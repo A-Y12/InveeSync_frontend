@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/InveeSync_frontend/static/css/main.39612ae3.css",
+    "main.js": "/InveeSync_frontend/static/js/main.03a40841.js",
+    "index.html": "/InveeSync_frontend/index.html",
+    "main.39612ae3.css.map": "/InveeSync_frontend/static/css/main.39612ae3.css.map",
+    "main.03a40841.js.map": "/InveeSync_frontend/static/js/main.03a40841.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39612ae3.css",
+    "static/js/main.03a40841.js"
+  ]
+}
